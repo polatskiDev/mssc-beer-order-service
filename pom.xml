@@ -30,6 +30,10 @@
             <name>John Thompson</name>
             <organization>Spring Framework Guru</organization>
         </developer>
+        <developer>
+            <name>Orhan Polat</name>
+            <organization>Amsterdam Expats</organization>
+        </developer>
     </developers>
 
     <properties>
